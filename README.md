@@ -10,7 +10,7 @@
 
 ### **2\. Introduction**
 
-* **Project Overview**: Briefly describe the project, its purpose, and its significance.  
+* **Project Overview**: Briefly describe the project, its purpose, and its significance. A flexible, responsive, and easy-to-use crossword component for React apps.  
 * **Objective**: What is the main goal of the project? Include the problem it aims to solve or the functionality it intends to add.  
 * **Tools & Technologies**: List the programming languages, frameworks, tools, and platforms used (e.g., React.js, TypeScript, Linux commands, etc.).
 
