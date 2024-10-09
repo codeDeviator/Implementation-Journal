@@ -22,8 +22,8 @@
 * Development Tools:
 * npm (Node Package Manager) for managing dependencies
 * ESLint and Prettier for code formatting and linting Platforms:
-  Ubuntu Linux (for development environment)
-  GitHub (for version control and documentation)
+Ubuntu Linux (for development environment)
+GitHub (for version control and documentation)
 * Others:
   React Router (if needed for navigation)
   Git (for version control)
