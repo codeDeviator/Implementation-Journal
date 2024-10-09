@@ -17,19 +17,19 @@
   
 * **Tools & Technologies**: List the programming languages, frameworks, tools, and platforms used (e.g., React.js, TypeScript, Linux commands, etc.).  Here’s a list of the tools and technologies used in the project:
 
-Programming Languages: JavaScript, TypeScript (optional for type safety)
-Frameworks/Libraries: React.js, styled-components (for dynamic styling)
-Development Tools:
-npm (Node Package Manager) for managing dependencies
-ESLint and Prettier for code formatting and linting
-Platforms:
-Ubuntu Linux (for development environment)
-GitHub (for version control and documentation)
-Others:
-React Router (if needed for navigation)
-Git (for version control)
-Markdown (for documentation)
-These technologies come together to create a responsive, interactive crossword component that is easy to integrate into React apps.
+* Programming Languages: JavaScript, TypeScript (optional for type safety)
+* Frameworks/Libraries: React.js, styled-components (for dynamic styling)
+* Development Tools:
+* npm (Node Package Manager) for managing dependencies
+* ESLint and Prettier for code formatting and linting Platforms:
+  Ubuntu Linux (for development environment)
+  GitHub (for version control and documentation)
+* Others:
+  React Router (if needed for navigation)
+  Git (for version control)
+  Markdown (for documentation)
+  These technologies come together to create a responsive, interactive crossword component that is easy to integrate into 
+  React apps.
 
 ---
 
