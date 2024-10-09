@@ -2,11 +2,11 @@
 
 ### **1\. Title Page**
 
-* Project Name  
-* Your Name  
+* Project Name  - React Crossword Puzzle  
+* Your Name  -  Ayush  
 * Date of Submission  
-* Company Name  
-* Mentor's Name (if applicable)
+* Company Name  - Keenable   
+* Mentor's Name (if applicable)  - Anjali Ma'am  
 
 ### **2\. Introduction**
 
